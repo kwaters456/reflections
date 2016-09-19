@@ -9,8 +9,10 @@ What value do you think it offers?
 	commit. The value is that I can narrow down to the file that 
 	I changed. Making it easier to track down bugs if I need to.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Only add one change at a time. Use git diff to make sure what changes are occuring and then commiting on change at a time, even 
+	if you have made more than one.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
