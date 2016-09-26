@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Create a separate branch when working on a bug fix or an added feature, some new facet of the program. Creating another branch allows you to work on a bug or feature without breaking the master program. All changes in the master branch gives you a linear workflow to follow.
