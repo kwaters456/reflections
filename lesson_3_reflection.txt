@@ -22,7 +22,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Email, jump drives. Email has file size limitations and you have to deal with monstrously long email chains. Jump drives you have to be in person to exchange, so no live updates.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
